@@ -21,7 +21,7 @@ A través de la limpieza de datos, la transformación de variables y la visualiz
 ## 🛠️ Tecnologías Utilizadas
 
 ### Lenguaje de Programación
-- Python 3.x
+- Python 3.13.5
 
 ### Bibliotecas de Análisis
 - **Pandas**: Manipulación y limpieza de datos.
